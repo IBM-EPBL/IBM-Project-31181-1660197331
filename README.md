@@ -1,5 +1,5 @@
 # Retail Store Stock Inventory Analytics
-IBM-Project-31181-1660197331
+IBM-Project-31181-1660197331<br>
 TECHNOLOGY : DATA ANALYTICS<br>
 TEAM ID : PNT2022TMID22699
 ![image](https://user-images.githubusercontent.com/67099475/203354219-732d7be6-9fc6-42f6-ad52-b4320496605d.png)
