@@ -4,10 +4,10 @@ TECHNOLOGY : DATA ANALYTICS<br>
 TEAM ID : PNT2022TMID22699
 ![image](https://user-images.githubusercontent.com/67099475/203354219-732d7be6-9fc6-42f6-ad52-b4320496605d.png)
 # TEAM MEMBERS 
-Team Leader : Nitheshprawin
-Team member : Shanmuga Priya
-Team member : Raghul
-Team member : Gopalakrishnan
+Team Leader : Nitheshprawin<br>
+Team member : Shanmuga Priya<br>
+Team member : Raghul<br>
+Team member : Gopalakrishnan<br>
 # PROJECT DESCRIPTION
 This dataset contains a lot of historical sales data of a Brazilian top retailer<br>
 Basic Questions of every retailer : How much inventory should I carry?  Too much inventory means working capital costs, operational costs and a complex operation, lack of inventory leads to lost sales, unhappy customers and a damaged brand.<br>
