@@ -9,8 +9,8 @@ Team member : Shanmuga Priya<br>
 Team member : Raghul<br>
 Team member : Gopalakrishnan<br>
 # PROJECT DESCRIPTION
-This dataset contains a lot of historical sales data of a Brazilian top retailer<br>
-Basic Questions of every retailer : How much inventory should I carry?  Too much inventory means working capital costs, operational costs and a complex operation, lack of inventory leads to lost sales, unhappy customers and a damaged brand.<br>
-This is why short-term forecasting is so important in the retail and consumer goods industry.
+⚫ This dataset contains a lot of historical sales data of a Brazilian top retailer<br>
+⚫ Basic Questions of every retailer : How much inventory should I carry?  Too much inventory means working capital costs, operational costs and a complex operation, lack of inventory leads to lost sales, unhappy customers and a damaged brand.<br>
+⚫ This is why short-term forecasting is so important in the retail and consumer goods industry.
 # TECHNICAL ARCHITECTURE
 ![image](https://user-images.githubusercontent.com/67099475/203354868-c3ac4c04-7599-4148-81c3-0df728b1def3.png)
